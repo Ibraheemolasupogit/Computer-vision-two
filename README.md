@@ -4,7 +4,7 @@ This pilot project, developed for the **NHS AI Lab Skunkworks team**, explores t
 
 ---
 
-## 📌 Project Summaryc
+## 📌 Project Summary
 
 Adrenal lesions are found in approximately **6% of individuals** post-mortem — often without prior diagnosis. In the UK alone, around **50,000 patients are affected annually**. While some lesions are benign, others may be malignant and require further investigation.
 
