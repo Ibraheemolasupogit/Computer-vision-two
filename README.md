@@ -31,6 +31,3 @@ The project implements a **2.5D binary classification model** to detect adrenal 
 > The codebase consists of modular Jupyter notebooks covering data loading, preprocessing, model training, and evaluation.
 
 ---
-
-## 📂 Repository Structure
-
