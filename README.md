@@ -12,25 +12,6 @@ Currently, detection relies on **manual interpretation** of CT scans by radiolog
 
 ---
 
-## 🚀 Project Origin
-
-- 📅 **Selected:** July 2021
-- 📍 **Team:** NHS AI Lab Skunkworks
-- ✅ **Status:** Experimental research (non-clinical)
-- 🔍 **Focus:** Technical validation of AI in radiology
-
----
-
-## 🧪 Intended Use
-
-This work is **for research and prototyping purposes only** and is **not intended for clinical use**. Any future deployment would require:
-
-- Full model validation
-- Compliance with **UK Medical Device Regulations 2002**
-- Regulatory approval and clinical trials
-
----
-
 ## 🔐 Data Protection
 
 - This project was covered by a **Data Protection Impact Assessment (DPIA)**
